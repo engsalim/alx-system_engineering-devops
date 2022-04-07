@@ -1,0 +1,4 @@
+#! /bin/bash
+# 0 task 0x00.Shell,basics
+pwd
+ls
