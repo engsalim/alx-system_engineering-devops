@@ -1,4 +1,2 @@
-#! /bin/bash
-# 0 task 0x00.Shell,basics
+#!/bin/bash
 pwd
-ls
